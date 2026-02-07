@@ -22,7 +22,7 @@
 本项目将 Transformer 的抽象架构图拆解为具体的代码实现。下图展示了论文中的经典架构，下表详细说明了每个模块对应的源码文件位置。
 
 <div align="center">
-  <img src="4.png" alt="Transformer Architecture" width="500" />
+  <img src="image.png" alt="Transformer Architecture" width="500" />
   <br>
   <em>Figure 1: The Transformer Architecture (Vaswani et al., 2017)</em>
 </div>
